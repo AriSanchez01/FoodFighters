@@ -22,7 +22,7 @@ public class AJuego : MonoBehaviour
     void LoadScene()
     {
         //load gameplay scene
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene("Game");
     }
 
 }
